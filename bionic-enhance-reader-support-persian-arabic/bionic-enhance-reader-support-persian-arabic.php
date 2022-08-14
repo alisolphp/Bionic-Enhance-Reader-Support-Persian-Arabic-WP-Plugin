@@ -6,16 +6,16 @@
  * Every h1,h2,h3,h4,h5,h6,p tags will be converted to bionic text automatically.
  * Enjoy it!
  *
- * @link              https://github.com/alisol-dev
+ * @link              https://github.com/alisolphp
  * @since             1.0.0
  *
  * @wordpress-plugin
  * Plugin Name:       Bionic Enhance Reader (Support Persian Arabic)
- * Plugin URI:        https://github.com/alisol-dev/Bionic-Enhance-Reader-Support-Persian-Arabic-WP-Plugin/
+ * Plugin URI:        https://github.com/alisolphp/Bionic-Enhance-Reader-Support-Persian-Arabic-WP-Plugin/
  * Description:       WordPress plugin to make bionic all posts on your website to enhance reading speed and quality.
  * Version:           1.0.0
  * Author:            Alisol
- * Author URI:        https://github.com/alisol-dev
+ * Author URI:        https://github.com/alisolphp
  * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl.html
  *

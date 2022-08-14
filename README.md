@@ -5,4 +5,4 @@ Demo sample usage:
 https://alisol.ir/Projects/Bionic-Enhance-Reader-Support-Persian-Arabic/samples/1/index.php
 
 Also you can use it as Chrome Extension on your browser:
-https://github.com/alisol-dev/Bionic-Enhance-Reader-Support-Persian-Arabic-Chrome-Extension
+https://github.com/alisolphp/Bionic-Enhance-Reader-Support-Persian-Arabic-Chrome-Extension
